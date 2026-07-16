@@ -1,5 +1,4 @@
 name: Build Android 15 Fast Speed
-
 on:
   workflow_dispatch: # Cho phép bấm nút kích hoạt bằng tay
 
